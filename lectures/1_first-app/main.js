@@ -25,7 +25,7 @@ console.log('----------');
 sayHello();
 console.log('==========');
 let obj = {
-  number: 30, //프로퍼티
+  number: 30, //프로퍼티 = 변수를 객체가 가지고 있을때 부르는 용어
   SayHello: function () {
     console.log('obj>Hello1');
     console.log('obj>Hello2');
